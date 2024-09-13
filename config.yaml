@@ -1,0 +1,5 @@
+shodan_api_key: "your-shodan-api-key"
+fofa_email: "your-fofa-email"
+fofa_api_key: "your-fofa-api-key"
+ipinfo_token: "your-ipinfo-api-token"
+virustotal_api_key: "your-virustotal-api-key"
